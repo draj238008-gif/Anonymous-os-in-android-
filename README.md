@@ -12,13 +12,7 @@ $ termux-setup-storage
 $ pkg update
 
 
-$ pkg install unzip
-
-
-$ unzip AnonymousOS_Termux_CLI.zip
-
-
-$ cd AnonymousOS_Termux_CLI
+$ pkg install unzip 
 
 
 $cp -r ~/storage/downloads/AnonymousOS_Termux_CLI ~/
